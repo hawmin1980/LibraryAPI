@@ -65,5 +65,4 @@ To run the API locally:
 Restore the database using DB Backup.zip.
 
 Start the API project.
-
-Access endpoints via your preferred REST client.
+Access and test endpoints via the Swagger UI.
